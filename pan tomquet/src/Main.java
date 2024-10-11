@@ -11,6 +11,7 @@ public class Main {
         System.out.println(primerapalbra+ "amb " + segundapalbra);
 
         System.out.printf("hola");
+        System.out.println("adeu");
         
 
 
